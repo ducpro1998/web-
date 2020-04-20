@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+*{font-family:Arial, Helvetica, sans-serif;margin:0px;padding:0px}
+#body {background-color:#ABE7E7}
+#wrapper {width:1200px; margin:0 auto; }
+#header{background-color:#990;height:350px;}
+#menu {height:80px; background-color:#FFF}
+#content {min-height:150px; background-color:#FFF }
+#footer {background-color:#333; color:#FFF; padding:20px}
+#footer a {color: #FFF; text-decoration:none}
+#footer h2 {text-decoration:underline}
+#menu a{text-decoration:none; color:black};
